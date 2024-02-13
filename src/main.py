@@ -36,9 +36,9 @@ localization_labels = {
         33: "Number of Generations",
         34: "Percentage of magicians creating a family \nwith Muggles in each generation (from 0 to 1)",
         35: "Average number of children in a Muggle-Muggle family",
-        36: "Average number of children in a Muggle-Muggle family",
-        37: "Average number of children in a muggle-Muggle family",
-        38: "The probability of a magician being born into a Muggle family (from 0 to 1)"
+        36: "Average number of children in a Wizard-Muggle family",
+        37: "Average number of children in a Wizard-Wizard family",
+        38: "The probability of a Wizard being born into a Muggle family (from 0 to 1)"
     }
 }
 
